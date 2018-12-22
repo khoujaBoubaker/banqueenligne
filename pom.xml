@@ -3,6 +3,7 @@
   <groupId>Test</groupId>
   <artifactId>Test</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <!--  test -->
   <build>
     <sourceDirectory>src</sourceDirectory>
     <plugins>
