@@ -189,6 +189,7 @@ public class DemoMbApplication implements CommandLineRunner {
 		administrateur.setPassword("admin");
 		administrateur.setPic(arrayPic);
 		//adminService.addadmin(administrateur);
+		Ssyout.println ...
 		
 		
 		// ajout client
